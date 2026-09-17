@@ -1,0 +1,11 @@
+# Arquivos temporários do Windows
+*.tmp
+*.temp
+*.bak
+
+# Arquivos temporários/locais do editor
+*.swp
+*.swo
+
+# Arquivos de log
+*.log
